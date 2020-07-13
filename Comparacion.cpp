@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <conio.h>
 
+//This code compares two vectors
 int main ()
 {
 	
